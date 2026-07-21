@@ -1,0 +1,6 @@
+{
+ "name":"ff-guild-template",
+ "version":"1.0.0",
+ "scripts":{"start":"node index.js"},
+ "dependencies":{"discord.js":"^14.15.3","dotenv":"^16.4.5","axios":"^1.7.2"}
+}

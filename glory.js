@@ -1,0 +1,1 @@
+module.exports={name:'glory',execute(){console.log('Implement with your own API')}};

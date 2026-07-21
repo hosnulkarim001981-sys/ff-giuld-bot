@@ -1,0 +1,1 @@
+module.exports={name:'help',execute(){console.log('Help')}};
